@@ -1,0 +1,12 @@
+{
+    "name": "Url Checker",
+    "version" : "1.0.0",
+    "description":"This is a test",
+    "manifest_version":3,
+    "action":{
+        "default_popup": "index.html"
+    },
+    "permissions":[
+        "http://localhost/*"
+    ]
+}
